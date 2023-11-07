@@ -1,16 +1,17 @@
 body {
     margin: 0;
-    font-family: 'Arial';
+    font-family: 'Quicksand', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    <img src="ToDoListPic.jpg" alt="To do list" width="500" height="600"></img>
 }
 
 code {
-    font-family: Arial;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .app {
-    background: #209cee;
+    background: #FFCCCC;
     padding: 30px;
     height: 100vh;
 }
@@ -43,4 +44,9 @@ code {
     padding: 1em;
     height: 2.25em;
     font-size: 24px;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
 }

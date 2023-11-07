@@ -34,6 +34,7 @@ function App(){
         </div>
       </div>
   );
+  <img src="ToDoListPic.jpg" alt="To do list"></img>
 };
 
 ReactDOM.render(
